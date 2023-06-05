@@ -1,0 +1,555 @@
+
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 44829 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 56683 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 44790 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 56636 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 50089 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 65495 
+number of moves 239 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 26905 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 33407 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 27568 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 33837 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 25387 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 31607 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 26350 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 32282 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 27248 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 33588 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 26110 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 32571 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 28282 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 35014 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 26793 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 33087 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 25458 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 31858 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 26987 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 33451 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 25521 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 31725 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 25821 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 32280 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 17381 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 22462 
+number of moves 232 
+
+first agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 16632 
+number of moves 185 
+
+last agent at the exit
+noExplorers 5 
+maze 27, 27 
+elapsed time 21686 
+number of moves 232 
+
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26573 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26635 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25053 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25119 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25955 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26028 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26195 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26203 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25838 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25847 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26469 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26478 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26195 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26205 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26685 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26695 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26125 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 26136 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 24928 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 24939 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 24994 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 25006 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20509 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20520 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20268 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20280 
+number of moves 650 
+
+first agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20264 
+number of moves 650 
+
+last agent at the exit
+noExplorers 1 
+maze 27, 27 
+elapsed time 20276 
+number of moves 650 
+
+first agent at the exit
+noExplorers 20 
+maze 27, 27 
+elapsed time 80946 
+number of moves 138 
+
+last agent at the exit
+noExplorers 20 
+maze 27, 27 
+elapsed time 114454 
+number of moves 198 
+
+first agent at the exit
+noExplorers 20 
+maze 27, 27 
+elapsed time 78614 
+number of moves 138 
+
+last agent at the exit
+noExplorers 20 
+maze 27, 27 
+elapsed time 112436 
+number of moves 198 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 78038 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 98069 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 79892 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 98747 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 73372 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 92476 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 75639 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 95294 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 78843 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 99456 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 79655 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 100581 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 79178 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 100245 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 77022 
+number of moves 184 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 41773 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 53423 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 58650 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 75791 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 62867 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 80302 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 58792 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 76013 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 58249 
+number of moves 184 
+
+last agent at the exit
+noExplorers 10 
+maze 27, 27 
+elapsed time 75043 
+number of moves 239 
+
+first agent at the exit
+noExplorers 10 
+maze 28, 27 
+elapsed time 570 
+number of moves 0 
+
